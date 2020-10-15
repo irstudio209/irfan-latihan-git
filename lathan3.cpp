@@ -8,5 +8,7 @@ int main(int argc, char const *argv[])
     cout << "ini adalah file Branch latihan 3" << endl;
 
     cout << "hello dunia" << endl;
+
+    cout << "semangat" << endl;
     return 0;
 }
