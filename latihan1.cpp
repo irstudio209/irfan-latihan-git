@@ -8,5 +8,6 @@ int main(int argc, char const *argv[])
     cout << "ini adalah file 1" << endl;
 
     cout << "Hello word" << endl;
+    cout << "hello kalian" << endl;
     return 0;
 }
